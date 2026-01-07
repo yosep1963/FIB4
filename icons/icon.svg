@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0f766e"/>
+  <text x="256" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="120" font-weight="bold" fill="white">FIB-4</text>
+  <text x="256" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="60" fill="#99f6e4">Calculator</text>
+  <rect x="106" y="360" width="300" height="8" rx="4" fill="#99f6e4"/>
+  <circle cx="206" cy="364" r="12" fill="#22c55e"/>
+  <circle cx="306" cy="364" r="12" fill="#eab308"/>
+  <circle cx="406" cy="364" r="12" fill="#ef4444"/>
+</svg>
